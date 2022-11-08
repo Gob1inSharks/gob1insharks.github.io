@@ -26,13 +26,13 @@ Using mediapipe, my laptop can get the direction of my hand(s). The car then mov
 
 Using hand detection, I can guide the car to go in which direction I please with ease. It is a quick, easy way to give understandable inputs to the system.
 
-Mediapipe is a framework made by Google for building machine learning pipe lines to process video and audio. I use Mediapipe Hands to detect the direction in which my point is pointing to.
+Mediapipe is a framework for building machine learning pipe lines to process video and audio. I use Mediapipe Hands to detect the direction in which my point is pointing to.
 
 ![hand_graph](/assets/photos/hand_landmarks.png "hand_graph")
 
 The above model shows the coordinates of the hands that mediapipe maps out.
 
-For more infomation, visit the [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands")
+For more infomation, visit the [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands") made by Google.
 
 ### 2.3 Three-Dimensional Simulation
 
