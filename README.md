@@ -8,6 +8,8 @@ There are a lot of problems with modern urban infrastructure. With cars dominati
 
 I believe that omnidirectional vehicles with remote control can be a viable replacement.
 
+![shanghaiyaya](/assets/photos/elevated-view-of-shanghai-highway-weiyi-zhu-3643787103.jpg "shanghaihighway")
+
 ### 1.2 Objective
 
 How can I utilize camera to control an omnidirectional vehicle in both physical and simulation form?
@@ -20,15 +22,18 @@ The project is composed of one input and two outputs. The input being Mediapipe 
 
 ### 2.2 Hand Detection
 
-For better control of the vehicle, I used a camera to scan images of my handsUsing hand detection, I can guide the car to any direction with ease. It is a quick, easy way to give understandable inputs to the system.
+For better control of the vehicle, I used a camera to scan images of my handsUsing hand detection. This allows me to guide the car to any direction with ease. It is a quick, easy way to give understandable inputs to the system.
 
 Mediapipe is a framework for building machine learning pipe lines to process video and audio. I use Mediapipe Hands to detect the direction in which my point is pointing to.
 
+![hand_graph_2](/assets/photos/mediapipe_hand_photo.png "hand_graph_2")
 ![hand_graph](/assets/photos/hand_landmarks.png "hand_graph")
 
 The above model shows the coordinates of the hands that mediapipe maps out. Photo from [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands").
 
 ### 2.3 Three-Dimensional Simulation
+
+To better understand how the vehicle is moving, there should be a virtual simulation of the car. This way, the driver is understand how the vehicle moves.
 
 ### 2.4 Mecanum Wheel Vehicle
 
@@ -40,14 +45,17 @@ The above graphs shows how mecanum wheels work.
 
 ![uranus](/assets/photos/UranusOmniDirectionalRobotPodnar.png "uranushaha")
 
-Here is an example of a mecanum wheel vehicle. "URANUS" omni-directional mobile robot using Mecanum wheels. Designed in 1985 by Gregg Podnar at the Robotics Institute of Carnegie-Mellon University. Used for two decades for robot navigation and other research.
-
+Here is an example of a mecanum wheel vehicle. "URANUS" omni-directional mobile robot using Mecanum wheels. Designed in 1985 by Gregg Podnar at the Robotics Institute of Carnegie-Mellon University. Sources from [wikipediapageformecanumwheels](https://en.wikipedia.org/wiki/Mecanum_wheel "WikitheCan").
 
 ### 2.5 System
 
 ### Mediapipe
 
+Utilizing mediapipe, I was able to create python program where the direction I am pointing in through the camera. 
+
 ### VTK
+
+VTK or Visualization Toolkit is a powerful open-source software to display visual infomation. In the python program, I have included a vtk simulation of the vehicle.
 
 ### Serial COM
 
