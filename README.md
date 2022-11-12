@@ -1,42 +1,47 @@
-# Utilizing Mediapipe to Control a Mecanum Wheel Vehicle
+# Utilizing Mediapipe to Control an Omnidirectional Vehicle
 
 ## 1. Introduction
 
-### 1.1 Overview
+### 1.1 Background
 
-For this project, I will be using mediapipe hands to control a mecanum wheel car and its simulation. 
+There are a lot of problems with modern urban infrastructure. With cars dominating the roads, accidents happen frequently which result in loss of time, resources, and sometimes even lives. Could there be a solution to this problem? Are trucks and human drivers the most reliable resource? 
 
-### 1.2 Background
+I believe that omnidirectional vehicles with remote control can be a viable replacement.
 
-Jayden do dis later 
+### 1.2 Objective
 
-### 1.3 Objective
-
-How can I utilize camera to control a vehicle in both physical and simulation form?
+How can I utilize camera to control an omnidirectional vehicle in both physical and simulation form?
 
 ## 2. Mthodology
 
 ### 2.1 Overview
 
-The project is composed of one input and two outputs. The input being Mediapipe hands; the ouputs being the vehicle and its simulation. 
-
-Using mediapipe, my laptop can get the direction of my hand(s). The car then moves to the direction my hand(s) is pointing at. There is also a VTK simulation of the car running alongside the physical one. The vehicle is connected to my laptop with a serial port, while the rest is in a python file. 
+The project is composed of one input and two outputs. The input being Mediapipe hands; the ouputs being the vehicle and its simulation. Using mediapipe, my laptop can get the direction of my hand(s). The car then moves to the direction my hand(s) is pointing at. There is also a VTK simulation of the car running alongside the physical one. The vehicle is connected to my laptop with a serial port, while the rest is in a python program. 
 
 ### 2.2 Hand Detection
 
-Using hand detection, I can guide the car to go in which direction I please with ease. It is a quick, easy way to give understandable inputs to the system.
+For better control of the vehicle, I used a camera to scan images of my handsUsing hand detection, I can guide the car to any direction with ease. It is a quick, easy way to give understandable inputs to the system.
 
 Mediapipe is a framework for building machine learning pipe lines to process video and audio. I use Mediapipe Hands to detect the direction in which my point is pointing to.
 
 ![hand_graph](/assets/photos/hand_landmarks.png "hand_graph")
 
-The above model shows the coordinates of the hands that mediapipe maps out.
-
-For more infomation, visit the [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands") made by Google.
+The above model shows the coordinates of the hands that mediapipe maps out. Photo from [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands").
 
 ### 2.3 Three-Dimensional Simulation
 
 ### 2.4 Mecanum Wheel Vehicle
+
+Mecanum wheels are omnidirectional wheels or wheels that can move in right-left and forward-backwards motion. With a special shape, the wheels allow my vehicle to move in any direction. An advantage of mecanum wheels is that they can directly replace the normal four wheel drive. This could be a great option for my vehicle.
+
+![mecanum_wheel_graph](/assets/photos/Mecanum_wheel_control_principle.svg.png "mwg02")
+![mecanum_wheel_graph2](/assets/photos/graph_mecanumwheels.png "mvg01")
+The above graphs shows how mecanum wheels work.
+
+![uranus](/assets/photos/UranusOmniDirectionalRobotPodnar.png "uranushaha")
+
+Here is an example of a mecanum wheel vehicle. "URANUS" omni-directional mobile robot using Mecanum wheels. Designed in 1985 by Gregg Podnar at the Robotics Institute of Carnegie-Mellon University. Used for two decades for robot navigation and other research.
+
 
 ### 2.5 System
 
