@@ -49,7 +49,7 @@ The above graphs shows how mecanum wheels work.
 
 ![uranus](/assets/photos/UranusOmniDirectionalRobotPodnar.png "uranushaha")
 
-Here is an example of a mecanum wheel vehicle. "URANUS" omni-directional mobile robot using Mecanum wheels. Designed in 1985 by Gregg Podnar at the Robotics Institute of Carnegie-Mellon University. Sources from [wikipediapageformecanumwheels](https://en.wikipedia.org/wiki/Mecanum_wheel "WikitheCan").
+Here is an example of a mecanum wheel vehicle. "URANUS" omni-directional mobile robot using Mecanum wheels. Designed in 1985 by Gregg Podnar at the Robotics Institute of Carnegie-Mellon University. Sources from [Wikipedia Page for Mecanum Wheel](https://en.wikipedia.org/wiki/Mecanum_wheel "WikitheCan").
 
 ### 2.5 System
 
@@ -89,8 +89,9 @@ Above is a photo of code I worked on.
 
 I finished building the pre-designed mecanum wheel in a day.
 
-![V1](/assets/photos/vehicle_demostration.jpg "VD1")![V2](/assets/photos/vehicle_demostration_2.jpg "VD2")
-![V3](/assets/photos/vehicle_demostration_3.jpg "VD3")![V4](/assets/photos/vehicel_demostration_4.jpg "VD4")
+![V1](/assets/photos/vehicle_demostration.jpg "VD1")
+![V2](/assets/photos/vehicle_demostration_2.jpg "VD2")
+![V3](/assets/photos/vehicle_demostration_3.jpg "VD3")
 
 Above are photos of the vehicle.
 
