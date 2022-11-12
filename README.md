@@ -1,4 +1,4 @@
-# Utilizing Mediapipe to Control an Omnidirectional Vehicle
+# Improving Airport Luggage Trolleys
 
 Jayden Chen,
 November 12th, 2022.
@@ -7,17 +7,15 @@ November 12th, 2022.
 
 ### 1.1 Background
 
-There are a lot of problems with modern urban infrastructure. With cars dominating the roads, accidents happen frequently which result in loss of time, resources, and sometimes even lives. Could there be a solution to this problem? Are trucks and human drivers the most reliable resource? 
+Traveling internationally is always a problem for many, especially in airports. Families bring large amounts of luggage, and it could be difficult pushing the trolleie around a busy airport with crouds of people. More people find airport trollies hard to control. What if there was a way to move trollies around with ease?
 
-I believe that omnidirectional vehicles with remote control can be a viable replacement.
+Considering the issue, I could create a multi-directional and camera controlled trolley for airports. It seems reasonable to use hand gestures instead of a remote controller for ease.
 
-For this project, I plan to make a small model of what could be a future vehicle for transportation.
-
-![shanghaiyaya](/assets/photos/elevated-view-of-shanghai-highway-weiyi-zhu-3643787103.jpg "shanghaihighway")
+![shanghaiyaya](/assets/photos/trolley.jpg "shanghaihighway")
 
 ### 1.2 Objective
 
-How can I utilize camera to control an omnidirectional vehicle in both physical and simulation form?
+How can I create a camera controlled trolley that improves travelling through airports.
 
 ## 2. Mthodology
 
@@ -27,7 +25,8 @@ The project is composed of one input and two outputs. The input being Mediapipe 
 
 ### 2.2 Hand Detection
 
-For better control of the vehicle, I used a camera to scan images of my handsUsing hand detection. This allows me to guide the car to any direction with ease. It is a quick, easy way to give understandable inputs to the system.
+For better control of the vehicle, I used a camera to scan images of my hands. 
+Using hand detection. This allows me to guide the car to any direction with ease. It is a quick, easy way to give understandable inputs to the system.
 
 Mediapipe is a framework for building machine learning pipe lines to process video and audio. I use Mediapipe Hands to detect the direction in which my point is pointing to.
 
@@ -111,7 +110,7 @@ Have not finished yet.
 
 ### 5.1 Conclusion
 
-With further developments in self-driving cars, it seems important to rethink how the roads and vehicle of cities work. It is important to keep all possibilities in mind, so that we can find more efficient and safe ways for transportation. 
+
 
 ### 5.2 Improvements
 
