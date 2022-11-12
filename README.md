@@ -1,5 +1,8 @@
 # Utilizing Mediapipe to Control an Omnidirectional Vehicle
 
+Jayden Chen,
+November 12th, 2022.
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -29,7 +32,7 @@ Mediapipe is a framework for building machine learning pipe lines to process vid
 ![hand_graph_2](/assets/photos/mediapipe_hand_photo.png "hand_graph_2")
 ![hand_graph](/assets/photos/hand_landmarks.png "hand_graph")
 
-The above model shows the coordinates of the hands that mediapipe maps out. Photo from [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands").
+The above models shows the coordinates of the hands that mediapipe maps out. Photo from [Mediapipe Development Site](https://google.github.io/mediapipe/solutions/hands.html "Mediapipe Solution: Hands").
 
 ### 2.3 Three-Dimensional Simulation
 
@@ -41,6 +44,7 @@ Mecanum wheels are omnidirectional wheels or wheels that can move in right-left 
 
 ![mecanum_wheel_graph](/assets/photos/Mecanum_wheel_control_principle.svg.png "mwg02")
 ![mecanum_wheel_graph2](/assets/photos/graph_mecanumwheels.png "mvg01")
+
 The above graphs shows how mecanum wheels work.
 
 ![uranus](/assets/photos/UranusOmniDirectionalRobotPodnar.png "uranushaha")
@@ -59,28 +63,59 @@ VTK or Visualization Toolkit is a powerful open-source software to display visua
 
 ### Serial COM
 
+The vehicle is connected to the laptop using a serial COM, allowing communication between the program and the vehicle.
+
 ### Vehicle
+
+Luckly enough, I did not have to design a mecanum wheel vehicle. There was a mecanum vehicel using Arduino Uno that I had to assemble. 
 
 ## 3. Results
 
 ### 3.1 Overview
 
+Have no finished yet.
+
 ## 4. Process
 
-### 4.1 Learning Process
+### 4.1 Learning Process (1st - 3rd week)
 
-### 4.2 Building Process
+The processed beginned with me learning how to use VTK to make a simulation. I already knew python and mediapipe so the process was fast. 
 
-### 4.3 Design Process
+![VTK](/assets/photos/VTK_learning_demostration.jpg "VTK_demostration")
 
-### 4.4 Final Product
+Above is a photo of code I worked on.
+
+### 4.2 Building Process (4th week)
+
+I finished building the pre-designed mecanum wheel in a day.
+
+![V1](/assets/photos/vehicle_demostration.jpg "VD1")![V2](/assets/photos/vehicle_demostration_2.jpg "VD2")
+![V3](/assets/photos/vehicle_demostration_3.jpg "VD3")![V4](/assets/photos/vehicel_demostration_4.jpg "VD4")
+
+Above are photos of the vehicle.
+
+### 4.3 Design Process (5th - N week)
+
+Have no finished yet.
+
+### 4.4 Final Product (N week)
+
+Have not finished yet.
 
 ## 5. Reflection
 
-### 5.1 Overview
+### 5.1 Conclusion
+
+Overall, this project went smoothly. It wasn't a big project, and 
 
 ### 5.2 Improvements
 
+I think the mediapipe system could have been enhance. Maybe I'll revisit this project in the future and improve it.
+
 ### 5.3 Take Aways
 
-### 5.4 Conclusion
+In this project, I have learned
+
+
+
+
