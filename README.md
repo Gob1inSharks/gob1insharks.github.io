@@ -40,6 +40,8 @@ The above models shows the coordinates of the hands that mediapipe maps out. Pho
 
 To better understand how the vehicle is moving, there should be a virtual simulation of the car. This way, the drivers understand how the vehicle moves better and could manage to remote control them.
 
+![codeforvtk](/assets/photos/"WeChat Image_20221112153028.jpg" "code1024")
+
 ### 2.4 Mecanum Wheel Vehicle
 
 Mecanum wheels are omnidirectional wheels or wheels that can move in right-left and forward-backwards motion. With a special shape, the wheels allow my vehicle to move in any direction. An advantage of mecanum wheels is that they can directly replace the normal four wheel drive. This could be a great option for my vehicle.
