@@ -109,8 +109,6 @@ Have not finished yet.
 
 ### 5.1 Conclusion
 
-Overall, this project went smoothly. It wasn't a big project, yet I manage to complete all of my goals. 
-
 With further developments in self-driving cars, it seems important to rethink how the roads and vehicle of cities work. It is important to keep all possibilities in mind, so that we can find more efficient and safe ways for transportation. 
 
 ### 5.2 Improvements
@@ -118,6 +116,8 @@ With further developments in self-driving cars, it seems important to rethink ho
 I think the hand detection system could have been enhance. Mediapipe is a great resource, yet it could only impliment a 2d surface. The user interface with the program isn't well-designed and it is an aspect tht can be greatly improved upon. Maybe I'll revisit this project in the future and improve it.
 
 ### 5.3 Take Aways
+
+Overall, this project went smoothly. It wasn't a big project, yet I manage to complete all of my goals. 
 
 In this project, I have learned how to use VTK. VTK is definitely a tool that I will be using in the future for its display of visual infomation. Further more, learning how to create a portfolio online is vital for future projects, and this is thefirst project I applied that to. 
 
