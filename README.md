@@ -40,7 +40,7 @@ The above models shows the coordinates of the hands that mediapipe maps out. Pho
 
 To better understand how the vehicle is moving, there should be a virtual simulation of the car. This way, the drivers understand how the vehicle moves better and could manage to remote control them.
 
-![codeforvtk](/assets/photos/"WeChat Image_20221112153028.jpg" "code1024")
+![codeforvtk](/assets/photos/"code1024.jpg" "code1024")
 
 ### 2.4 Mecanum Wheel Vehicle
 
