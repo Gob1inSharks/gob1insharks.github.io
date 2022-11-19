@@ -13,6 +13,8 @@ Traveling internationally is always a problem for many, especially in airports. 
 
 Considering the issue, I could create a multi-directional and camera controlled trolley for airports. It seems reasonable to use hand gestures instead of a remote controller for ease.
 
+![airportlugaggetrolly](/assets/photos/th-1547602710.jpg "generictrolley") 
+
 Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
 
 ### 1.2 Objective
