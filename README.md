@@ -17,7 +17,7 @@ Considering the issue, I could create a multi-directional and camera controlled 
 
 Demostration of Trolley
 
-![sketches1](/assets/photos/Intelligent Trolly Sketches.jpg "sketches1")
+![sketches1](/assets/photos/IntelligentTrollySketches.png "sketches1")
 
 
 Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
