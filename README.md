@@ -9,16 +9,17 @@ November 19th, 2022.
 
 ### 1.1 Background
 
-Traveling internationally is always a problem for many, especially in airports. Families bring large amounts of luggage, and it could be difficult pushing the trolleie around a busy airport with crouds of people. More people find airport trollies hard to control. What if there was a way to move trollies around with ease?
+Traveling internationally is always a problem for many, especially in airports. Families bring large amounts of luggage, and it could be difficult pushing the luggage trolley(s) around a busy airport with crouds of people. Many people find airport trollies hard to control, especially with luggage on them.
 
-Considering the issue, I could create a multi-directional and camera controlled trolley for airports. It seems reasonable to use hand gestures instead of a remote controller for ease.
+What if there was a way to move trollies around with ease?
 
 ![airportlugaggetrolly](/assets/photos/Lugaggetrolley.jpg "generictrolley") 
 
-Demostration of Trolley
+Demostration of a trolley. Source from Getty Images.
+
+With this in mind, I plan to create an intelligent trolley that could follow the user's directions. There should be a camera that detects where the user is, and the user should be able to direct the trolley anywhere without a remote controller. 
 
 ![sketches1](/assets/photos/IntelligentTrollySketches.png "sketches1")
-
 
 Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
 
