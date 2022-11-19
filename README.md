@@ -25,7 +25,7 @@ Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent troll
 
 ### 1.2 Objective
 
-How can I create a camera controlled trolley that improves travelling through airports.
+How can I create a camera controlled trolley that improves travelling through airports?
 
 ## 2. Mthodology
 
