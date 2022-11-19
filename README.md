@@ -23,9 +23,13 @@ How can I create a camera controlled trolley that improves travelling through ai
 
 ### 2.1 Overview
 
-The project is composed of one input and two outputs. The input being Mediapipe hands; the ouputs being the vehicle and its simulation. Using mediapipe, my laptop can get the direction of my hand(s). The car then moves to the direction my hand(s) is pointing at. There is also a VTK simulation of the car running alongside the physical one. The vehicle is connected to my laptop with a serial port, while the rest is in a python program. 
+
+
+Similar approaches to luggage trollies have been taken before. However, they lack a lot of mobility and automation.  
 
 ### 2.2 Hand Detection
+
+To 
 
 For better control of the vehicle, I used a camera to scan images of my hands. 
 Using hand detection. This allows me to guide the car to any direction with ease. It is a quick, easy way to give understandable inputs to the system.
@@ -92,7 +96,7 @@ Above is a photo of code I worked on.
 
 ### 4.2 Building Process (4th week)
 
-I finished building the pre-designed mecanum wheel in a day.
+I finished building the pre-designed mecanum wheel in a day, to test out how a mecanum wheel vehicle moves.
 
 ![V1](/assets/photos/vehicle_demostration.jpg "VD1")
 ![V2](/assets/photos/vehicle_demostration_2.jpg "VD2")
@@ -106,7 +110,7 @@ Have no finished yet.
 
 ### 4.4 Final Product (N week)
 
-Have not finished yet.
+
 
 ## 5. Reflection
 
@@ -116,13 +120,11 @@ Have not finished yet.
 
 ### 5.2 Improvements
 
-I think the hand detection system could have been enhance. Mediapipe is a great resource, yet it could only impliment a 2d surface. The user interface with the program isn't well-designed and it is an aspect tht can be greatly improved upon. Maybe I'll revisit this project in the future and improve it.
+
 
 ### 5.3 Take Aways
 
-Overall, this project went smoothly. It wasn't a big project, yet I manage to complete all of my goals. 
 
-In this project, I have learned how to use VTK. VTK is definitely a tool that I will be using in the future for its display of visual infomation. Further more, learning how to create a portfolio online is vital for future projects, and this is thefirst project I applied that to. 
 
 
 
