@@ -1,7 +1,9 @@
-# Improving Airport Luggage Trolleys
+# Intelligent Trolleys
 
-Jayden Chen,
-November 12th, 2022.
+Jayden Chen.
+November 19th, 2022.
+
+![shanghaiyaya](/assets/photos/trolly.jpg "shanghaihighway")
 
 ## 1. Introduction
 
@@ -11,7 +13,7 @@ Traveling internationally is always a problem for many, especially in airports. 
 
 Considering the issue, I could create a multi-directional and camera controlled trolley for airports. It seems reasonable to use hand gestures instead of a remote controller for ease.
 
-![shanghaiyaya](/assets/photos/trolly.jpg "shanghaihighway")
+Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
 
 ### 1.2 Objective
 
