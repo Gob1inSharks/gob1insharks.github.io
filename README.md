@@ -29,7 +29,7 @@ How can I create a camera controlled trolley that improves travelling through ai
 
 Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
 
-![sketches2](/assets/photos/IntelligentTrollyProject.jpg "flowchartsketch")
+![sketches2](/assets/photos/IntelligentTrolleyProject.jpg "flowchartsketch")
 
 Flow chart of the entire project. 
 
