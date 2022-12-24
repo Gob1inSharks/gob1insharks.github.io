@@ -23,13 +23,15 @@ With this in mind, I plan to create an intelligent trolley that could follow the
 
 How can I create a camera controlled trolley that improves travelling through airports?
 
-### 1.3 Initial Sketches
+### 1.3 Initial Ideas
 
 ![sketches1](/assets/photos/IntelligentTrollySketches.png "sketches1")
 
 Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
 
 ![sketches2](/assets/photos/IntelligentTrollyProject.png "flowchartsketch")
+
+Flow chart of the entire project. 
 
 ## 2. Mthodology
 
