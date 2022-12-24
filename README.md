@@ -19,13 +19,17 @@ Demostration of a trolley. Source from Getty Images.
 
 With this in mind, I plan to create an intelligent trolley that could follow the user's directions. There should be a camera that detects where the user is, and the user should be able to direct the trolley anywhere without a remote controller. 
 
+### 1.2 Objective
+
+How can I create a camera controlled trolley that improves travelling through airports?
+
+### 1.3 Initial Sketches
+
 ![sketches1](/assets/photos/IntelligentTrollySketches.png "sketches1")
 
 Intial Sketches I've Creating (Using Adobe Illustrator) of the intelligent trolly.
 
-### 1.2 Objective
-
-How can I create a camera controlled trolley that improves travelling through airports?
+![sketches2](/assets/photos/IntelligentTrollyProject.png "flowchartsketch")
 
 ## 2. Mthodology
 
@@ -33,7 +37,7 @@ How can I create a camera controlled trolley that improves travelling through ai
 
 
 
-Similar approaches to luggage trollies have been taken before. However, they lack a lot of mobility and automation.  
+
 
 ### 2.2 Hand Detection
 
