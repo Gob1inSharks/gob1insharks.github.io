@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 
+about_me_description: Hi, I'm Jayden Chen. As a high school student with a passion for computer science, I've been hooked on exploring the endless possibilities of machine learning and virtual worlds. You can find me working on projects that bring together my interests together constantly. I am proficient in Python, C++, and C, and also development tools like Git and VSCode; and I daily drive fedora and arch linux.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: 
+contact_description: If you're interested in working with me, feel free to contact me. I am deseperate for work.
 
 # GITHUB-METADATA
 # Set this to your forked repository
