@@ -17,45 +17,66 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Shanghai American School Puxi Campus 
+  title-url: https://www.saschina.org/
+  date: Aug 2021 - Present
+  subtitle: High School Student
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Education
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: USACO BRONZE CHAMPIONSHIP
+  title-url: 
+  date: Jan 2022
+  subtitle: 
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Honor
+    - tag: Python
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Published First Video Game
+  title-url: https://jayden-chen-games.itch.io/tales-of-shadows
+  date: Mar 2022 - April 2022
+  subtitle: Worked with a team of 6 Students to create a Game
+  tags:
+    - tag: Godot Game Engine
+    - tag: GDScript
+    - tag: Video Game
+  timeline-side: left
+
+- title: USACO SILVER CHAMPIONSHIP
+  title-url: 
+  date: Feb 2023
+  subtitle: 
+  tags:
+    - tag: Honor
+    - tag: C++
+  timeline-side: right
+
+- title: Moocxing Summer Internship
+  title-url: 
+  date: Jun 2023 - Aug 2023
+  subtitle: Developer as Intern and Gained Experience in Project Development
+  tags:
+    - tag: Python
+    - tag: Data Analysis
+  timeline-side: left
+
+- title: International Science and Engineering Fair Computer Vision Entry
+  title-url: https://github.com/Gob1inSharks/Distance-Detection-with-Stationary-Computer-Vision
+  date: Jul 2022 - Nov 2023
+  subtitle: Engineering Project and First Authored Paper 
+  tags:
+    - tag: Python
+    - tag: Machine Learning
+    - tag: Research
+  timeline-side: right
+
+- title: Asian-Pacific Vex Robotics Competition - Quarter Finals
+  title-url: 
+  date: Aug 2024 - Mar 2024
+  subtitle: 
+  tags:
+   - tag: Robotics
+   - tag: C++
   timeline-side: left
