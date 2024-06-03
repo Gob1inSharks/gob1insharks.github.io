@@ -30,7 +30,6 @@
   date: Jan 2022
   subtitle: 
   tags:
-    - tag: Honor
     - tag: Python
   timeline-side: right
 
@@ -41,7 +40,6 @@
   tags:
     - tag: Godot Game Engine
     - tag: GDScript
-    - tag: Video Game
   timeline-side: left
 
 - title: USACO SILVER CHAMPIONSHIP
@@ -49,7 +47,6 @@
   date: Feb 2023
   subtitle: 
   tags:
-    - tag: Honor
     - tag: C++
   timeline-side: right
 
@@ -60,6 +57,7 @@
   tags:
     - tag: Python
     - tag: Data Analysis
+    - tag: Development
   timeline-side: left
 
 - title: International Science and Engineering Fair Computer Vision Entry
@@ -75,7 +73,7 @@
 - title: Asian-Pacific Vex Robotics Competition - Quarter Finals
   title-url: 
   date: Aug 2024 - Mar 2024
-  subtitle: 
+  subtitle: Lead a Team as Lead Engineer and Programmer
   tags:
    - tag: Robotics
    - tag: C++
