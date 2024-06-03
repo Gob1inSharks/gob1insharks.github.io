@@ -13,18 +13,22 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Distance Detection with Stationary Computer Vision
+  descr: "The goal of this project is to develop an accurate, low-cost, low energy model for finding multiple objects through cameras paired with computer vision. Existing approaches for distance detection focus on parallax or sonar with visible light, or infrared lasers, which are expensive or close ranged. Other approaches focus on highly trained neural network systems that require tremendous amounts of data and energy. In this paper, I present a method that uses two aligned cameras with object detection, creating a more accessible approach that relies less on the quality of the device and/or the trained machine learning model. Using Google’s Mediapipe for computer vision and two web-cameras, this method managed to achieve high success rates within three tests. This technology was tested with ROS2 and other computer vision technology, proving it to be a good, efficient component in robotic systems."
+  demo: https://github.com/Gob1inSharks/Distance-Detection-with-Stationary-Computer-Vision
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Research
+    - tag: Paper
+    - tag: Machine Learning
+    - tag: Python
+    - tag: Mediapipe
+    - tag: OpenCV
+    - tag: MQTT
+    - tag: Raspberry Pi
 
-- name: project Y
+- name: Tales of Shadows
   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+  demo: 
   tags:
     - tag: Python
     - tag: Django
