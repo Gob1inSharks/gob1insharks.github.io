@@ -13,13 +13,13 @@ $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
-$text-color: #ffffff !default;
-$bg-color: rgba(1, 1, 1, 1);
-$card-bg-color:rgba(68, 11, 212, 1);
-$primary-color: #ff2079;
+$text-color: #c6b8d9;
+$bg-color: rgba(50,37,63,255);
+$card-bg-color:rgba(50,37,63,255);
+$primary-color: #8c618c;
 
-$skill-button-off-color:rgba(4, 0, 95, 1);
-$skill-button-on-color:rgba(80, 11, 229, 1);
+$skill-button-off-color:rgba(68,54,89,255);
+$skill-button-on-color:rgba(242,208,207,255);
 /* General */
 
 html {
@@ -281,7 +281,7 @@ a {
         colorEmail 1s linear forwards;
     }
     .social-svg {
-      fill: #d44638;
+      fill: #f2d0cf;
     }
   }
 
