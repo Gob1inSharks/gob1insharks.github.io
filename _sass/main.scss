@@ -18,6 +18,8 @@ $bg-color: rgba(1, 1, 1, 1);
 $card-bg-color:rgba(68, 11, 212, 1);
 $primary-color: #ff2079;
 
+$skill-button-off-color:rgba(4, 0, 95, 1);
+$skill-button-on-color:rgba(80, 11, 229, 1);
 /* General */
 
 html {
@@ -100,11 +102,11 @@ a {
 }
 
 .neumorphism-button {
-  background: rgba(4, 0, 95, 1);
+  background: $skill-button-off-color
 }
 
 @mixin neumorphism-button-pressed {
-  background: rgba(80, 11, 229, 1);
+  background: $skill-button-on-color;
 }
 /* Preloader */
 
