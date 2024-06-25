@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: GS | Resume and Portfolio
+title: JC | Portfolio
 # description: This will be meta HTML tag content. This can be ignored.
-description: Resume and Portfolio
+description: A Github Page for My Portfolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ baseurl: ""
 username: Jayden Chen
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: A Wanna-Be Computer Scientist
+typing_text: Average Arch Linux User
 # email: Your E-Mail address for the email button.
 email: jayden02px2025@saschina.org
 # For every social button you want to display, set your username or userid
@@ -32,9 +32,9 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: All About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, I'm Jayden Chen. As a high school student with a passion for computer science, I've been hooked on exploring the endless possibilities of machine learning and virtual worlds. You can find me working on projects that bring together my interests together constantly. I am proficient in Python, C++, and C, and also development tools like Git and VSCode; and I daily drive fedora and arch linux.
+about_me_description: Hi, I'm Jayden Chen.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -48,12 +48,12 @@ skills_title: Coding Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education and Experience
+timeline_title: Experience & Education
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: 
+cv_download_link: https://drive.google.com/uc?export=download&id=1woMZECGENQ5pBpUiAqOC29Q09i8GAqiT
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -65,13 +65,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: All Projects
+projects_title: My Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: false
+show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: 
+os_projects_title: Github Repositories
 
 # CONTACT SECTION
 # show_contact_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you're interested in working with me, feel free to contact me. I am deseperate for work.
+contact_description: If you're interested in working with me, feel free to contact me.
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -91,7 +91,7 @@ projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: stars
+  sort_by: time
   exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
