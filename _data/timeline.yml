@@ -31,6 +31,7 @@
   subtitle: 
   tags:
     - tag: Python
+    - tag: C++s
   timeline-side: right
 
 - title: Published First Video Game
@@ -42,14 +43,6 @@
     - tag: GDScript
   timeline-side: left
 
-- title: USACO SILVER CHAMPIONSHIP
-  title-url: 
-  date: Feb 2023
-  subtitle: 
-  tags:
-    - tag: C++
-  timeline-side: right
-
 - title: Moocxing Summer Internship
   title-url: 
   date: Jun 2023 - Aug 2023
@@ -58,9 +51,9 @@
     - tag: Python
     - tag: Data Analysis
     - tag: Development
-  timeline-side: left
+  timeline-side: right
 
-- title: International Science and Engineering Fair Computer Vision Entry
+- title: International Science and Engineering Fair Entry
   title-url: https://github.com/Gob1inSharks/Distance-Detection-with-Stationary-Computer-Vision
   date: Jul 2022 - Nov 2023
   subtitle: Engineering Project and First Authored Paper 
@@ -68,13 +61,13 @@
     - tag: Python
     - tag: Machine Learning
     - tag: Research
-  timeline-side: right
+  timeline-side: left
 
 - title: Asian-Pacific Vex Robotics Competition - Quarter Finals
   title-url: 
   date: Aug 2024 - Mar 2024
   subtitle: Lead a Team as Lead Engineer and Programmer
   tags:
-   - tag: Robotics
+   - tag: Vex Robotics
    - tag: C++
-  timeline-side: left
+  timeline-side: right
