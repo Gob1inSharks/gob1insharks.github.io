@@ -48,7 +48,7 @@ skills_title: Coding Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: false
+show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Experience & Education
 # cv_download_link: The link where you host your cv.
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you're interested in working with me, feel free to contact me.
+contact_description: If you're interested in working with me, feel free to contact me anytime.
 
 # GITHUB-METADATA
 # Set this to your forked repository
