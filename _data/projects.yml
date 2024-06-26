@@ -14,22 +14,35 @@
 #     - tag: Node
 
 - name: Distance Detection with Stationary Computer Vision
-  descr: "The goal of this project is to develop an accurate, low-cost, low energy model for finding multiple objects through cameras paired with computer vision. Existing approaches for distance detection focus on parallax or sonar with visible light, or infrared lasers, which are expensive or close ranged. Other approaches focus on highly trained neural network systems that require tremendous amounts of data and energy. In this paper, I present a method that uses two aligned cameras with object detection, creating a more accessible approach that relies less on the quality of the device and/or the trained machine learning model. Using Google’s Mediapipe for computer vision and two web-cameras, this method managed to achieve high success rates within three tests. This technology was tested with ROS2 and other computer vision technology, proving it to be a good, efficient component in robotic systems."
+  descr: "The goal of this project is to develop an accurate, low-cost, low energy model for finding multiple objects through cameras paired with computer vision. Existing approaches for distance detection focus on parallax or sonar with visible light, or infrared lasers, which are expensive or close ranged. Other approaches focus on highly trained neural network systems that require tremendous amounts of data and energy.I present a method that uses two aligned cameras with object detection, creating a more accessible approach that relies less on the quality of the device and/or the trained machine learning model. Using Google’s Mediapipe for computer vision and two web-cameras, this method managed to achieve high success rates within three tests. This technology was tested with ROS2 and other computer vision technology, proving it to be a good, efficient component in robotic systems."
   demo: https://github.com/Gob1inSharks/Distance-Detection-with-Stationary-Computer-Vision
   tags:
-    - tag: Research
-    - tag: Paper
     - tag: Machine Learning
-    - tag: Python
     - tag: Mediapipe
-    - tag: OpenCV
+    - tag: OpenCV-Python
     - tag: MQTT
     - tag: Raspberry Pi
 
 - name: Tales of Shadows
-  descr: 
+  descr: "A video game inspired by Hollow Knight, Dune, and Chinese History."
   demo: https://jayden-chen-games.itch.io/tales-of-shadows
   tags:
-    - tag: Video Game
     - tag: Godot 
-    - tag: GDScript
+    - tag: Json
+
+- name: Weird Fungi
+  descr: "An AI-Chat bot with running llama3 focused on markdown file analysis with retrieval-augmented generation. The program can successfully analyze Markdown files and recall relevant information from them using local LLMs."
+  demo: https://github.com/Gob1inSharks/weird-fungi-RAG
+  tags:
+    - tag: Langchain
+    - tag: Ollama
+    - tag: Streamlit
+    - tag: Markdown Tokenizer
+
+- name: Hands of Ymir
+  descr: "An on-going video game project focused on in-real-life hand tracking to manipulate virtual objects with an internet of things set up."
+  demo: https://github.com/Gob1inSharks/hands-of-ymir
+  tags:
+    - tag: Unity3D
+    - tag: Mediapipe Hand Detection
+    - tag: Internet of Things
