@@ -14,7 +14,7 @@ baseurl: ""
 username: Jayden Chen
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: "ground control to Major Tom"
+typing_text: "passionate beginner"
 # email: Your E-Mail address for the email button.
 email: jayden02px2025@saschina.org
 # For every social button you want to display, set your username or userid
@@ -32,9 +32,12 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: All About Me
+about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, I'm Jayden Chen.
+about_me_description: "Hi, I'm Jayden and I'm excited to start my coding journey! As a beginner, I'm eager to learn the ins and outs of programming and explore the amazing world of tech. With a 
+passion for solving problems and creating innovative solutions, I'm looking forward to connecting with like-minded individuals and learning from their experiences. I'm still in the process of
+building my skills and knowledge, but I'm committed to putting in the effort to become a proficient coder. I hope to make new friends, learn from mistakes, and contribute to meaningful 
+projects along the way!"
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +84,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you're interested in working with me \n Feel free to contact me anytime
+contact_description: "If you're interested in working with me \n Feel free to contact me anytime"
 
 # GITHUB-METADATA
 # Set this to your forked repository
